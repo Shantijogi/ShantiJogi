@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shantijogi
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Sj.shantijogi@gmail.com
 - 😄 Pronouns: She/Her
