@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shantijogi
-- 👀 I’m interested in Data analysis (Python, MySQL, PowerBi, Tableau, and Excel)
+- 👀 I’m interested in Data analysis (Python, MySQL, PowerBi, Tableau, Looker Studio and Excel)
 - 📫 How to reach me Sj.shantijogi@gmail.com
 - ⚡ Fun fact: Love to play BGMI, Book Colouring, Reading books
 <!---
